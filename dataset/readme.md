@@ -1,7 +1,3 @@
-# IDS Dataset
-
-## 1. Dataset Parameter
-
 | parameter                   | type   | explanation                                                                                |
 | --------------------------- | ------ | ------------------------------------------------------------------------------------------ |
 | duration                    | int    | length (number of seconds) of the connection                                               |
